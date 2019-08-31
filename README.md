@@ -37,7 +37,7 @@ yarn dev
 }
 ```
 
-### Defiçao dos campos que você quer pegar fica no arquivo
+### Definiçao dos campos que você quer pegar fica no arquivo
 > Controller.js
 ```JS
 const {login, name, bio, avatar_url: avatar} = response.data
