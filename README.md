@@ -11,7 +11,7 @@ yarn
 ``` 
 yarn dev 
 ````
-#### Salvando Usúario no banco mongodb (Ou qualquer outro)
+#### Salvando Usuário no banco mongodb (Ou qualquer outro)
 * Para testar o projeto utilize o insomnia ou Postman para enviar um usuario via rota post, utilizando no body do header o nome de usuario do github por exemplo:
 
 
